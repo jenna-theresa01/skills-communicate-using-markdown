@@ -4,3 +4,7 @@
 ![Image of Make Way for Ducklings Sculpture](https://github.com/jenna-theresa01/skills-communicate-using-markdown/issues/2#issue-1865449234)
 ``` javascript
 var myVar="Hello World!"
+````
+- [ ] Turn on Github Pages
+- [ ] Outline my Portfolio
+- [ ] Introduce myself to the world
